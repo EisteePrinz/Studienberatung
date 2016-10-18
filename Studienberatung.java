@@ -11,7 +11,17 @@ public class Studienberatung {
 		else if (a1.equals("n")){
 			System.out.println("Hast du Fachabitur?");
 			String a3 = scanner.next();
-			
+				if(a3.equals("j")){
+					System.out.println("Hast du eine Berufsausbilding?")
+					String a4 = scanner.next();
+					if(a4.equals("j"){
+						System.out.println("Später studieren");
+						
+					}
+					else if (a4.equals("n"){
+						System.out.println("Besser studieren");
+					}
+				}
 			
 			
 			
